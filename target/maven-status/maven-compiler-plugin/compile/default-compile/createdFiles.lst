@@ -1,0 +1,5 @@
+com\inveno\drone\dto\RpaTaskRequest.class
+com\inveno\drone\DroneServerApplication.class
+com\inveno\drone\service\RpaExecutionService.class
+com\inveno\drone\controller\RpaController.class
+com\inveno\drone\dto\RpaTaskResponse.class
